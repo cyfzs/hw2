@@ -1,0 +1,19 @@
+.table1 td:nth-child(odd)
+        {
+        color: black;
+        }
+.table1 td:nth-child(even)
+        {
+         color: tomato;
+        }
+.table1 tr:nth-child(odd)
+        {
+        background-color:gray;
+        }
+.table1 tr:nth-child(even)
+        {
+        background-color:dodgerblue;
+        }
+.table2 td{
+    box-shadow:10px 10px 10px rgb(155, 111, 111) ;
+}
